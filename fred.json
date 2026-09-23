@@ -1,8 +1,0 @@
-{
-  "generated_at": null,
-  "source": "FRED (Federal Reserve Bank of St. Louis)",
-  "note": "Placeholder — the update-fred-data GitHub Action has not run yet.",
-  "t10y2y": {},
-  "t10y3m": {},
-  "fedfunds": {}
-}
